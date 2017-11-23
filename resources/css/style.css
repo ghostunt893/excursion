@@ -1,0 +1,35 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.selectable {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.title {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#content p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+#copyright {
+  text-align: right;
+  color: Gray;
+}
